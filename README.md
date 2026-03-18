@@ -149,6 +149,9 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
 
 
+### Organizations
+* [Federated Networks Association](https://feneas.org) - Non-profit volunteer organization that aims to spread knowledge about federated web projects and help people and projects involved in this area.
+
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
 
