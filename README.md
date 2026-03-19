@@ -58,6 +58,7 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/20190205160
 * [Briar](https://briarproject.org/) - Censorship-resistant peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in.
 * [FreshRSS](https://freshrss.org/) - Self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable.
 * [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
+<<<<<<< HEAD
 * [/kbin](https://codeberg.org/Kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 * [Keet](https://keet.io/) - Peer-to-peer chat, video and chat, private and encrypted.
 * [Lemmy](https://join-lemmy.org/) - A decentralised discussion platform for communities. 
@@ -70,6 +71,7 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/20190205160
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh/tree/maint-3.0) - new updated version of Ricochet
 * [SimpleX Chat](https://simplex.chat/) - The "gold standard" for metadata-free messaging, no user IDs, uses pairwise "unidirectional queues" to route messages. 100% open-source.
+* [Vector](https://vectorapp.io) - Based on Nostr protocol and using Iroh for WebXDC real-time peer-to-peer communication and Pkarr  for publishing and resolving signed packets over mainline DHT and relays.
 * [WireMin](https://wiremin.org/) - a decentralized peer-to-peer social network, offers a new level of privacy and security.
 
 ### Databases
